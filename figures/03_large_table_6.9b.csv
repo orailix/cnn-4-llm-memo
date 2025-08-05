@@ -1,0 +1,55 @@
+tax_name,num_classes,min_f1,mean_f1,min_prec,mean_prec,min_rec,mean_rec,mean_eval_loss
+"Non-Memo, Recite[5], Guess, Others",4,71.5,79.8,64.9,81.1,70.4,79.6,0.0437
+"Non-Memo, Recollect[5], Code, Others",4,71.5,77.9,69.5,78.6,69.3,77.9,0.0447
+"Non-Memo, Recollect[50], Code, Others",4,70.8,76.8,69.2,77.1,70.6,76.6,0.0464
+"Non-Memo, Recollect[5], Guess, Others",4,70.7,79.3,65.7,79.8,68.2,79.2,0.0404
+"Non-Memo, Guess, Recite[5], Others",4,68.1,79.1,62.4,80.0,75.1,78.7,0.0415
+"Non-Memo, Recollect[50], Reconstruct, Others",4,67.8,81.2,63.7,81.9,72.4,80.9,0.037
+"Non-Memo, Recollect[50], Guess, Others",4,67.4,79.4,67.8,79.5,67.0,79.5,0.0402
+"Non-Memo, Recollect[5], Reconstruct, Others",4,67.3,79.4,59.2,81.2,72.5,78.8,0.0392
+"Non-Memo, Reconstruct, Recite[5], Others",4,66.0,79.8,62.4,80.3,70.1,79.5,0.0406
+"Non-Memo, Recite[50], Guess, Others",4,65.5,77.6,62.6,78.0,68.7,77.4,0.0437
+"Non-Memo, Recite[5], Reconstruct, Others",4,64.4,79.4,63.7,79.7,65.0,79.3,0.0418
+"Non-Memo, Recite[1k], Guess, Others",4,64.1,76.6,62.5,76.7,64.0,76.6,0.0418
+"Non-Memo, Recite[1k], Code, Others",4,63.0,71.2,63.0,71.4,63.0,71.1,0.0503
+"Non-Memo, Recite[50], Reconstruct, Others",4,62.7,79.2,62.5,79.4,63.0,79.3,0.041
+"Non-Memo, Reconstruct, Recite[50], Others",4,62.7,79.4,61.8,79.5,63.6,79.4,0.0394
+"Non-Memo, Recollect[1k], Reconstruct, Others",4,62.7,79.8,61.9,79.9,63.5,79.8,0.0348
+"Non-Memo, Code, Recite[5], Others",4,62.3,72.0,59.4,73.3,55.0,72.0,0.0501
+"Non-Memo, Guess, Recite[50], Others",4,61.6,76.4,59.9,77.1,63.6,76.1,0.0437
+"Non-Memo, Guess, Recite[1k], Others",4,60.1,76.5,63.1,76.3,57.3,76.8,0.0401
+"Non-Memo, Recite[1k], Reconstruct, Others",4,59.8,77.7,61.2,77.7,58.6,78.2,0.0392
+"Non-Memo, Recollect[1k], Guess, Others",4,58.4,76.9,64.9,76.9,53.2,77.4,0.0401
+"Non-Memo, Recollect[1k], Code, Others",4,58.3,71.6,61.3,71.9,52.8,71.7,0.0489
+"Non-Memo, Code, Recite[50], Others",4,57.7,68.1,51.4,69.4,52.6,67.8,0.052
+"Non-Memo, Reconstruct, Recite[1k], Others",4,57.6,77.6,60.0,77.4,55.5,77.9,0.0386
+"Non-Memo, Code, Recite[1k], Others",4,53.5,67.6,58.6,68.9,45.6,68.1,0.0513
+"Non-Memo, Recite[5], Code, Others",4,49.1,69.1,52.8,69.4,45.9,69.3,0.0509
+"Non-Memo, Recite[50], Code, Others",4,48.9,69.6,56.0,70.1,43.5,69.9,0.0519
+"Non-Memo, Guess, Others",3,88.9,89.9,88.8,89.9,88.6,89.9,0.0232
+"Non-Memo, Reconstruct, Others",3,87.6,91.0,89.3,91.1,82.9,91.1,0.0216
+"Non-Memo, Guess-or-Recollect[5], Others",3,84.6,87.7,86.2,87.7,82.3,87.7,0.0275
+"Non-Memo, Reconstruct-or-Recollect[5], Others",3,81.3,85.3,78.9,85.5,83.7,85.2,0.0311
+"Non-Memo, Recite[5], Others",3,80.4,84.5,77.2,84.8,82.5,84.4,0.0322
+"Non-Memo, Guess-or-Recollect[50], Others",3,80.4,85.7,80.9,86.1,76.1,85.8,0.029
+"Non-Memo, Recollect[5], Others",3,79.5,83.6,77.0,83.7,80.4,83.5,0.0324
+"Non-Memo, Reconstruct-or-Recollect[50], Others",3,78.1,84.0,78.5,84.0,77.7,84.0,0.033
+"Non-Memo, Recite[5]-or-Reconstruct, Others",3,77.6,82.3,72.1,83.0,76.0,82.2,0.0336
+"Non-Memo, Code, Others",3,75.9,81.7,72.3,82.5,69.6,81.8,0.0331
+"Non-Memo, Recollect[50], Others",3,75.4,82.3,76.2,82.5,74.7,82.3,0.0343
+"Non-Memo, Code-or-Recollect[5], Others",3,75.2,81.3,73.1,81.5,76.2,81.3,0.0331
+"Non-Memo, Recite[50], Others",3,75.2,82.3,77.8,82.4,72.7,82.4,0.0332
+"Non-Memo, Code-or-Recollect[50], Others",3,74.1,80.5,71.5,80.6,73.7,80.4,0.0336
+"Non-Memo, Recite[5]-or-Code, Others",3,72.7,78.3,66.2,79.5,67.1,78.2,0.0374
+"Non-Memo, Recite[50]-or-Reconstruct, Others",3,72.5,79.7,69.2,80.0,74.6,79.5,0.0353
+"Non-Memo, Recite[1k]-or-Code, Others",3,71.3,78.1,71.9,78.1,70.7,78.1,0.0363
+"Non-Memo, Recite[5]-or-Guess, Others",3,70.6,77.0,63.3,78.5,66.9,76.7,0.0384
+"Non-Memo, Guess-or-Recollect[1k], Others",3,70.6,80.7,74.4,80.9,67.2,80.8,0.0331
+"Non-Memo, Recollect[1k], Others",3,68.5,79.1,70.1,79.3,67.1,79.0,0.0346
+"Non-Memo, Recite[50]-or-Code, Others",3,68.0,75.3,60.7,77.4,59.2,75.1,0.0394
+"Non-Memo, Recite[1k], Others",3,67.6,78.3,69.6,78.4,65.7,78.4,0.0344
+"Non-Memo, Recite[50]-or-Guess, Others",3,67.2,75.1,61.3,76.3,66.6,74.7,0.0401
+"Non-Memo, Recite[1k]-or-Guess, Others",3,66.8,76.0,63.9,77.5,58.3,76.2,0.0373
+"Non-Memo, Code-or-Recollect[1k], Others",3,66.1,76.6,64.9,76.8,67.4,76.4,0.0368
+"Non-Memo, Reconstruct-or-Recollect[1k], Others",3,65.5,78.0,70.7,78.7,60.5,78.2,0.0344
+"Non-Memo, Recite[1k]-or-Reconstruct, Others",3,65.3,75.5,62.1,75.9,68.6,75.2,0.0369

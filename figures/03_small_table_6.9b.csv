@@ -1,0 +1,55 @@
+tax_name,num_classes,min_f1
+"Non-Memo, Recite[5], Guess, Others",4,71.5
+"Non-Memo, Recollect[5], Code, Others",4,71.5
+"Non-Memo, Recollect[50], Code, Others",4,70.8
+"Non-Memo, Recollect[5], Guess, Others",4,70.7
+"Non-Memo, Guess, Recite[5], Others",4,68.1
+"Non-Memo, Recollect[50], Reconstruct, Others",4,67.8
+"Non-Memo, Recollect[50], Guess, Others",4,67.4
+"Non-Memo, Recollect[5], Reconstruct, Others",4,67.3
+"Non-Memo, Reconstruct, Recite[5], Others",4,66.0
+"Non-Memo, Recite[50], Guess, Others",4,65.5
+"Non-Memo, Recite[5], Reconstruct, Others",4,64.4
+"Non-Memo, Recite[1k], Guess, Others",4,64.1
+"Non-Memo, Recite[1k], Code, Others",4,63.0
+"Non-Memo, Recite[50], Reconstruct, Others",4,62.7
+"Non-Memo, Reconstruct, Recite[50], Others",4,62.7
+"Non-Memo, Recollect[1k], Reconstruct, Others",4,62.7
+"Non-Memo, Code, Recite[5], Others",4,62.3
+"Non-Memo, Guess, Recite[50], Others",4,61.6
+"Non-Memo, Guess, Recite[1k], Others",4,60.1
+"Non-Memo, Recite[1k], Reconstruct, Others",4,59.8
+"Non-Memo, Recollect[1k], Guess, Others",4,58.4
+"Non-Memo, Recollect[1k], Code, Others",4,58.3
+"Non-Memo, Code, Recite[50], Others",4,57.7
+"Non-Memo, Reconstruct, Recite[1k], Others",4,57.6
+"Non-Memo, Code, Recite[1k], Others",4,53.5
+"Non-Memo, Recite[5], Code, Others",4,49.1
+"Non-Memo, Recite[50], Code, Others",4,48.9
+"Non-Memo, Guess, Others",3,88.9
+"Non-Memo, Reconstruct, Others",3,87.6
+"Non-Memo, Guess-or-Recollect[5], Others",3,84.6
+"Non-Memo, Reconstruct-or-Recollect[5], Others",3,81.3
+"Non-Memo, Recite[5], Others",3,80.4
+"Non-Memo, Guess-or-Recollect[50], Others",3,80.4
+"Non-Memo, Recollect[5], Others",3,79.5
+"Non-Memo, Reconstruct-or-Recollect[50], Others",3,78.1
+"Non-Memo, Recite[5]-or-Reconstruct, Others",3,77.6
+"Non-Memo, Code, Others",3,75.9
+"Non-Memo, Recollect[50], Others",3,75.4
+"Non-Memo, Code-or-Recollect[5], Others",3,75.2
+"Non-Memo, Recite[50], Others",3,75.2
+"Non-Memo, Code-or-Recollect[50], Others",3,74.1
+"Non-Memo, Recite[5]-or-Code, Others",3,72.7
+"Non-Memo, Recite[50]-or-Reconstruct, Others",3,72.5
+"Non-Memo, Recite[1k]-or-Code, Others",3,71.3
+"Non-Memo, Recite[5]-or-Guess, Others",3,70.6
+"Non-Memo, Guess-or-Recollect[1k], Others",3,70.6
+"Non-Memo, Recollect[1k], Others",3,68.5
+"Non-Memo, Recite[50]-or-Code, Others",3,68.0
+"Non-Memo, Recite[1k], Others",3,67.6
+"Non-Memo, Recite[50]-or-Guess, Others",3,67.2
+"Non-Memo, Recite[1k]-or-Guess, Others",3,66.8
+"Non-Memo, Code-or-Recollect[1k], Others",3,66.1
+"Non-Memo, Reconstruct-or-Recollect[1k], Others",3,65.5
+"Non-Memo, Recite[1k]-or-Reconstruct, Others",3,65.3
